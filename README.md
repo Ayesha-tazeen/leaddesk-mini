@@ -132,30 +132,27 @@ If you seeded the database using the default `.env.example` values:
 # Live Demo
 
 Landing Page
-
 ```
-<Add Vercel URL Here>
+https://leaddesk-mini-three.vercel.app/
 ```
 
 Admin
 
 ```
-<Add Vercel URL>/admin
+https://leaddesk-mini-three.vercel.app/admin
 ```
 
 Backend
 
 ```
-<Add Render URL>
+https://leaddesk-mini-wf0x.onrender.com
 ```
 
 ---
 
 # GitHub Repository
 
-```
-<Add GitHub Repository URL>
-```
+https://github.com/Ayesha-tazeen/leaddesk-mini
 
 ---
 
