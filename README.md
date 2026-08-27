@@ -14,7 +14,7 @@ A production-ready, full-stack lead management SaaS application built for the Di
 
 - **Frontend**: React (Vite), Tailwind CSS, React Router, Axios
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB Atlas via Mongoose
+- **Database**: MongoDB Atlas through Mongoose
 - **Authentication**: JWT (JSON Web Tokens) + bcrypt
 
 ## Folder Structure
